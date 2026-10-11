@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Engineering standards
+    url: https://github.com/binaa-ai-tech/binaa-workspace/blob/main/docs/engineering-standards.md
+    about: Naming, branching, commits, data and secrets rules for every Binaa repo.
