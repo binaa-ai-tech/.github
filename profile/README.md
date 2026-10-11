@@ -1,10 +1,24 @@
-# Binaa AI · بناء
+# Binaa AI · بِناء
 
-AI assistants for businesses in Egypt — on the channels their customers already use.
+We build AI assistants for businesses in Egypt, on the channels their customers already use: WhatsApp and the phone.
 
-| Product | What it does | Repos |
+بنبني مساعدين بالذكاء الاصطناعي للشركات في مصر، على القنوات اللي عملاءها بيستخدموها فعلاً: واتساب والتليفون.
+
+## Products
+
+| Product | What it does | Where |
 |---|---|---|
-| **Binaa Chat** | WhatsApp AI assistant: answers from the business's own data, takes orders and bookings, hands hot leads to the team. [aibinaa.com](https://aibinaa.com) | [binaa-platform](https://github.com/binaa-ai-tech/binaa-platform) · [binaa-chat-web](https://github.com/binaa-ai-tech/binaa-chat-web) |
-| **Binaa Voice** | AI call center on Gemini Live: natural Egyptian Arabic voice, self-hosted, managed by Binaa, or integrated with a corporate PBX. voice.aibinaa.com (soon) | [binaa-voice](https://github.com/binaa-ai-tech/binaa-voice) · binaa-voice-web (soon) |
+| **Binaa Chat** | A WhatsApp assistant for a business. It answers customers from the business's own data, takes orders and bookings, and passes interested customers to the team. | [aibinaa.com](https://aibinaa.com) |
+| **Binaa Voice** | An AI call center. It answers calls in natural Egyptian Arabic and takes the order. It can be self-hosted, run by Binaa, or connected to a company's phone system. | voice.aibinaa.com (soon) |
 
-Shared: [binaa-workspace](https://github.com/binaa-ai-tech/binaa-workspace) (map, standards, one-command setup) · [devpilot](https://github.com/binaa-ai-tech/devpilot) (how we deliver).
+Both run on one platform: the same tenants, catalog, orders and billing, reached over two channels. The product code is private.
+
+## Open source
+
+- [devpilot](https://github.com/binaa-ai-tech/devpilot): the delivery workflow we use on every repository. You describe a requirement in Claude Code; it plans, builds, tests, reviews and merges it. MIT licence.
+
+## Contact
+
+[contact@aibinaa.com](mailto:contact@aibinaa.com) · [aibinaa.com](https://aibinaa.com)
+
+Engineers at Binaa AI: start with the private `binaa-workspace` repository. It has the map of every repo, one command to clone them, and the engineering standards.
