@@ -9,9 +9,9 @@ We build AI assistants for businesses in Egypt, on the channels their customers 
 | Product | What it does | Where |
 |---|---|---|
 | **Binaa Chat** | A WhatsApp assistant for a business. It answers customers from the business's own data, takes orders and bookings, and passes interested customers to the team. | [aibinaa.com](https://aibinaa.com) |
-| **Binaa Voice** | An AI call center. It answers calls in natural Egyptian Arabic and takes the order. It can be self-hosted, run by Binaa, or connected to a company's phone system. | voice.aibinaa.com (soon) |
+| **Binaa Voice** | An AI call center. It answers calls in natural Egyptian Arabic and takes the order. It can be self-hosted, run by Binaa, or connected to a company's phone system. | [voice.aibinaa.com](https://voice.aibinaa.com) (beta: browser demo) |
 
-Both run on one platform: the same tenants, catalog, orders and billing, reached over two channels. The product code is private.
+Each product is its own system; a business can use one or both. The product code is private.
 
 ## Open source
 
