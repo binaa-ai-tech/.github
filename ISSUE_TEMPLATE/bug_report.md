@@ -3,7 +3,7 @@ name: Bug
 about: Something is broken
 labels: bug
 ---
-**Product / repo:** Binaa Chat · Binaa Voice · platform · site
+**Product / repo:** Binaa Chat · Afkar Voice · platform · site
 **Environment:** DEV · SIT · UAT · PRD · local
 **Steps to reproduce:**
 1.
